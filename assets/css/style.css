@@ -6407,7 +6407,7 @@ textarea ::placeholder {
     -ms-flex-direction: column;
     flex-direction: column;
     text-align: left;
-    width: 45%;
+    width: 49%;
 }
 
 @media (max-width: 992px) {
